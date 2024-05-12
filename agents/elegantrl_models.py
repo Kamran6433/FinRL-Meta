@@ -165,5 +165,5 @@ class DRLAgent:
             if done:
                 break
         print("Test Finished!")
-        print("episode_retuen", episode_return)
+        print("episode_return", episode_return)
         return episode_total_assets
